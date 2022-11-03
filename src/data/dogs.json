@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Francesco",
+        "age": 2,
+        "distance": 1200,
+        "image": "https://i.imgur.com/ytEmwMz.jpg",
+        "slogan": "I will be gentle and passionate with my girl"
+    },
+    {
+        "id": 2,
+        "name": "Malina",
+        "age": 5,
+        "distance": 3200,
+        "image": "https://i.imgur.com/G0c03nu.png",
+        "slogan": "I love cuddling in front of a fireplace with a warm cup of milk"
+    },
+    {
+        "id": 3,
+        "name": "Spike",
+        "age": 1.5,
+        "distance": 200,
+        "image": "https://i.imgur.com/HLsFLJi.jpg",
+        "slogan": "How would I describe myself in one word? Curious"
+    },
+    {
+        "id": 4,
+        "name": "Roxy",
+        "age": 6,
+        "distance": 15300,
+        "image": "https://i.imgur.com/w2fr04c.jpg",
+        "slogan": "Looking for a serious male that knows how to follow commands"
+    },
+    {
+        "id": 5,
+        "name": "Bubble",
+        "age": 7,
+        "distance": 21000,
+        "image": "https://i.imgur.com/RhPuMMk.jpg",
+        "slogan": "My favourite thing to do is chase after dogs"
+    },
+    {
+        "id": 6,
+        "name": "Matilda",
+        "age": 3,
+        "distance": 3600,
+        "image": "https://i.imgur.com/qdU17Wg.jpg",
+        "slogan": "I am interested in long walks and pooping on the beach"
+    }
+]
